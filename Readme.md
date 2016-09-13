@@ -15,4 +15,4 @@ the graph.html file code was taken from this site - https://developers.google.co
 the Sphere code was taken from this site - http://threejs.org/examples/canvas_lines_sphere.html
 
 links for visualization - for graph - 
- for sphere - 
+ for sphere - https://rawgit.com/abhisheksuhasmhatre/Project-1/master/Sphere.html
