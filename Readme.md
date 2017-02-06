@@ -1,18 +1,23 @@
-data source - https://data.sparkfun.com/streams/xRpV3GA0jVHMnoOnor2K
 
-libraries used - https://www.gstatic.com/charts/loader.js
-jquery-3.1.0.min.js - https://jquery.com/
-this was used for bar graph.html file.
+## Project Description
 
-jquery-3.1.0.min.js - https://jquery.com/
-three.js - http://threejs.org/
-Projector.js - http://threejs.org/
-CanvasRenderer.js - http://threejs.org/
-these were used for Sphere.html file
+Source 
+- data source - https://data.sparkfun.com/streams/xRpV3GA0jVHMnoOnor2K
 
-the graph.html file code was taken from this site - https://developers.google.com/chart/interactive/docs/gallery areachart
+Libraries
+- libraries used - https://www.gstatic.com/charts/loader.js
+- jquery-3.1.0.min.js - https://jquery.com/
+  this was used for bar graph.html file.
 
-the Sphere code was taken from this site - http://threejs.org/examples/canvas_lines_sphere.html
+- three.js - http://threejs.org/
+- Projector.js - http://threejs.org/
+- CanvasRenderer.js - http://threejs.org/
+ these were used for Sphere.html file
 
-links for visualization - for graph - https://rawgit.com/abhisheksuhasmhatre/Project-1/master/bar%20graph.html
- for sphere - https://rawgit.com/abhisheksuhasmhatre/Project-1/master/Sphere.html
+Project demo
+- https://rawgit.com/abhisheksuhasmhatre/Project-1/master/bar%20graph.html (links for visualization - for graph)
+- https://rawgit.com/abhisheksuhasmhatre/Project-1/master/Sphere.html (for sphere)
+
+## References
+https://developers.google.com/chart/interactive/docs/gallery areachart
+http://threejs.org/examples/canvas_lines_sphere.html
