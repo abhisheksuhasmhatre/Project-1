@@ -19,5 +19,5 @@ Project demo
 - https://rawgit.com/abhisheksuhasmhatre/Project-1/master/Sphere.html (for sphere)
 
 ## References
-https://developers.google.com/chart/interactive/docs/gallery areachart
-http://threejs.org/examples/canvas_lines_sphere.html
+              https://developers.google.com/chart/interactive/docs/gallery areachart
+              http://threejs.org/examples/canvas_lines_sphere.html
